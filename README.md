@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+![qqqqqq](https://github-readme-stats.vercel.app/api?username=jeongyoungbeom&show_icons=true&theme=dracula)
 <!--
 **jeongyoungbeom/jeongyoungbeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![qqqqqq](https://github-readme-stats.vercel.app/api?username=jeongyoungbeom&show_icons=true&theme=dracula)
+
 
 Here are some ideas to get you started:
 
