@@ -3,8 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongyoungbeom&layout=compact&theme=tokyonight)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jybeomss)](https://solved.ac/jybeomss)
 <!--
 **jeongyoungbeom/jeongyoungbeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
