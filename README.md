@@ -1,11 +1,11 @@
 ### Hi there 👋
+<div align="center">
 ![qqqqqq](https://github-readme-stats.vercel.app/api?username=jeongyoungbeom&show_icons=true&theme=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongyoungbeom&layout=compact&theme=tokyonight)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongyoungbeom&count_bg=%23B81D1D&title_bg=%23555555&icon=smugmug.svg&icon_color=%2309C234&title=%EC%96%B4%EC%84%9C%EC%98%A4%EC%8B%9C%EA%B0%9C&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+</div>
 
 
 
