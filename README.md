@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [Notion](https://candied-verbena-e46.notion.site/0645b1d15f2247f5ba9d57ba62349bc9)
+- 👨‍💻 All of Information are available at [Notion](https://candied-verbena-e46.notion.site/0645b1d15f2247f5ba9d57ba62349bc9)
 
 - 💬 Ask me about **please leave me a message!**
 
